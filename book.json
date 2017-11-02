@@ -1,0 +1,15 @@
+{
+  "item" : "book",
+  "bookid" : 20171030003,
+  "author" : "Ecco, Humberto",
+  "genre" : "Fiction",
+  "title" : "Name of the Rose, The"
+}  
+,
+{
+  "item" : "book",
+  "bookid" : 20171030004,
+  "author" : "Doyle, Arthur Conan",
+  "genre" : "Fiction",
+  "title" : "Study in Scarlet, A"
+}  
